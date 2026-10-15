@@ -1,0 +1,25 @@
+@media (max-width:480px){
+ body{
+    background-color: pink;
+ }
+}
+
+@media (min-width:481px) and (max-width:991px){
+   body{
+    background-color: blue;
+   }
+
+}
+
+@media (min-width:992px) and (max-width:1199px) {
+ body{
+    background-color: red;
+ }
+}
+@media (min-width:1200px){
+    body{
+        background-color: aquamarine;
+    }
+
+}
+
